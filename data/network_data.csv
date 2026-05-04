@@ -1,0 +1,9 @@
+Source_Node;Destination_Node;Cost_USD
+Core_Switch;Switch_A;1500
+Core_Switch;Switch_B;2200
+Switch_A;Switch_B;800
+Switch_A;Switch_C;1200
+Switch_B;Switch_D;1700
+Switch_C;Switch_D;1000
+Switch_C;Switch_E;2500
+Switch_D;Switch_E;1400

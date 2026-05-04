@@ -1,0 +1,7 @@
+Minimum Spanning Tree Toplam Kablolama Maliyeti: 5900.0 USD
+Secilen Baglantilar:
+- Core_Switch ile Switch_A arasi: 1500 USD
+- Switch_A ile Switch_B arasi: 800 USD
+- Switch_A ile Switch_C arasi: 1200 USD
+- Switch_C ile Switch_D arasi: 1000 USD
+- Switch_D ile Switch_E arasi: 1400 USD
